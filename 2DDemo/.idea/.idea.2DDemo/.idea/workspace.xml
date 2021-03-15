@@ -15,6 +15,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/FireBullets.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerCombat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AIPatrol.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.0.2/InputSystem/Plugins/PlayerInput/PlayerInput.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -83,6 +84,10 @@
       <workItem from="1615650703469" duration="13000" />
       <workItem from="1615651311300" duration="10000" />
       <workItem from="1615655536386" duration="24000" />
+      <workItem from="1615767544314" duration="2000" />
+      <workItem from="1615768683390" duration="38000" />
+      <workItem from="1615769406732" duration="23000" />
+      <workItem from="1615769501226" duration="12000" />
     </task>
     <servers />
   </component>
