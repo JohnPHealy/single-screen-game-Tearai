@@ -26,6 +26,7 @@
       <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
       <option value="$PROJECT_DIR$/Assets/FireBullets.cs" />
       <option value="$PROJECT_DIR$/Assets/BulletMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/EnemyGFX.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1opkVX338YDwfE42XSWOgMxKz2v" />
@@ -88,6 +89,10 @@
       <workItem from="1615768683390" duration="38000" />
       <workItem from="1615769406732" duration="23000" />
       <workItem from="1615769501226" duration="12000" />
+      <workItem from="1615821017559" duration="2000" />
+      <workItem from="1615821094746" duration="318000" />
+      <workItem from="1615821431590" duration="9000" />
+      <workItem from="1615821475140" duration="62000" />
     </task>
     <servers />
   </component>
